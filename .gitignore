@@ -1,0 +1,8 @@
+# Virtual environment
+.venv/
+venv/
+
+# Env files
+gateway.env
+
+.idea/
